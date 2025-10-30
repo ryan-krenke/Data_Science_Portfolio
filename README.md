@@ -4,18 +4,18 @@ Key Data Science projects and work completed as part of the MSDS Program at Bell
 Projects:
 
 ## ChildCareDataAnalysis3Mediums
-  -Analysis of national childcare, company data, and national test data for a daycare center company. 
-  -Data preparation and cleaning
-  -Kept data from only Midwest states and median childcare costs. Merged with company cost dataset. Updated national test dataset based on school subjects
-  -Three mediums
-  -Medium 1 – Powerpoint presentation
-  -Target audience of company leadership team. Bar charts created to show company costs by child age and differences between center and family-based childcare. 
-  -Medium 2 – PowerBI Dashboard
-  -Target audience of company leadership team. Tracking metrics of household income, unemployment rates, population, and number of households with kids/both parents work. Also a United States map of current and prospective locations
-  -Medium 3 – Social media post
-  -Target audience of current families and general public. Bar charts created to show average child test scores and comparable childcare costs. 
-  -Libraries/Programs used
-  -Python, NumPy, Pandas, Matplotlib, PowerBI
+  - Analysis of national childcare, company data, and national test data for a daycare center company. 
+  - Data preparation and cleaning
+  - Kept data from only Midwest states and median childcare costs. Merged with company cost dataset. Updated national test dataset based on school subjects
+  - Three mediums
+  - Medium 1 – Powerpoint presentation
+  - Target audience of company leadership team. Bar charts created to show company costs by child age and differences between center and family-based childcare. 
+  - Medium 2 – PowerBI Dashboard
+  - Target audience of company leadership team. Tracking metrics of household income, unemployment rates, population, and number of households with kids/both parents work. Also a United States map of current and prospective locations
+  - Medium 3 – Social media post
+  - Target audience of current families and general public. Bar charts created to show average child test scores and comparable childcare costs. 
+  - Libraries/Programs used
+  - Python, NumPy, Pandas, Matplotlib, PowerBI
 
 ## Cleaning_FormattingAPIData
   Cleaning and formatting data from an API data source
