@@ -3,7 +3,7 @@ Key Data Science projects and work completed as part of the MSDS Program at Bell
 
 Projects:
 
-ChildCareDataAnalysis3Mediums
+## ChildCareDataAnalysis3Mediums
   Analysis of national childcare, company data, and national test data for a daycare center company. 
   Data preparation and cleaning
   Kept data from only Midwest states and median childcare costs. Merged with company cost dataset. Updated national test dataset based on school subjects
@@ -17,7 +17,7 @@ ChildCareDataAnalysis3Mediums
   Libraries/Programs used
   Python, NumPy, Pandas, Matplotlib, PowerBI
 
-Cleaning_FormattingAPIData
+## Cleaning_FormattingAPIData
   Cleaning and formatting data from an API data source
   API Source – weather sensor data from purpleair.com
   Methods
@@ -28,7 +28,7 @@ Cleaning_FormattingAPIData
   Libraries/Programs used
   Python, BeautifulSoup, Pandas, NumPy, urllib, JSON 
 
-Cleaning_FormattingWebsiteTableData
+## Cleaning_FormattingWebsiteTableData
   Cleaning and formatting data from a website table source
   Website source - https://www.cdc.gov/asthma/most_recent_data_states.htm 
   Methods
@@ -38,7 +38,7 @@ Cleaning_FormattingWebsiteTableData
   Libraries/Programs used
   Python, BeautifulSoup, Pandas, NumPy, Requests, Scipy
 
-Food_Fat_Level_Regression_Project
+## Food_Fat_Level_Regression_Project
   Cleaning and formatting data, performing exploratory data analysis, and predictive analysis with Logistic and Linear Regression modeling
   Methods
   Imported flat file source and convert into pandas datasets.
@@ -54,27 +54,27 @@ Food_Fat_Level_Regression_Project
   
 
 
-SQLMergeDatasets_Visualizations
+## SQLMergeDatasets_Visualizations
 
 
 
-VehicleTheftsAnalysisProject
-
-
-
-
-Weather_Python_Project
-
-
-
-MeatConsumptionRegressionProject
+## VehicleTheftsAnalysisProject
 
 
 
 
-WildfirePredictionClassificationProject
+## Weather_Python_Project
 
 
 
-TBD
+## MeatConsumptionRegressionProject
+
+
+
+
+## WildfirePredictionClassificationProject
+
+
+
+## TBD
 
