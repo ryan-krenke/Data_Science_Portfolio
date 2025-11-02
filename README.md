@@ -1,5 +1,12 @@
 # Data_Science_Portfolio
-Key Data Science projects and work completed as part of the MSDS Program at Bellevue University.
+Key Data Science projects and work completed as part of the MS Data Science Program at Bellevue University. My goal with the program was to expand my knowledge around the ever-growing data field learning new techniques to understand and utilize data. 
+
+## About Me
+  - BS Biology/Chemistry University of Wisconsin-La Crosse (2008)
+  - MS Data Science Bellevue University (Expected 2025)
+  - 15+ Years in Food Safety and Quality Assurance in the food manufacturing industry
+## Contact
+  - LinkedIn https://www.linkedin.com/in/ryan-krenke-b2bab018a/ 
 
 ## Projects:
 
