@@ -11,6 +11,7 @@ Key Data Science projects and work completed as part of the MS Data Science Prog
 ## Projects:
 
 ### ChildCareDataAnalysis3Mediums
+[Open Notebook](ChildcareDataAnalysis3Mediums.ipynb)
   - Analysis of national childcare, company data, and national test data for a daycare center company. 
   - Data preparation and cleaning
     - Kept data from only Midwest states and median childcare costs. Merged with company cost dataset. Updated national test dataset based on school subjects
@@ -25,6 +26,7 @@ Key Data Science projects and work completed as part of the MS Data Science Prog
     - Python, NumPy, Pandas, Matplotlib, PowerBI
 
 ### Cleaning_FormattingAPIData
+[Open Notebook](Cleaning_FormattingAPIData.ipynb)
   - Cleaning and formatting data from an API data source
   - API Source – weather sensor data from purpleair.com
   - Methods
@@ -36,6 +38,7 @@ Key Data Science projects and work completed as part of the MS Data Science Prog
     -Python, BeautifulSoup, Pandas, NumPy, urllib, JSON 
 
 ### Cleaning_FormattingWebsiteTableData
+[Open Notebook](Cleaning_FormattingWebsiteTableData.ipynb)
   - Cleaning and formatting data from a website table source
   - Website source - https://www.cdc.gov/asthma/most_recent_data_states.htm 
   - Methods
@@ -46,6 +49,7 @@ Key Data Science projects and work completed as part of the MS Data Science Prog
     - Python, BeautifulSoup, Pandas, NumPy, Requests, Scipy
 
 ### Food_Fat_Level_Regression_Project
+[Open Notebook](Food_Fat_Level_Regression_Project.ipynb)
   - Cleaning and formatting data, performing exploratory data analysis, and predictive analysis with Logistic and Linear Regression modeling
   - Methods
     - Imported flat file source and convert into pandas datasets.
@@ -58,6 +62,7 @@ Key Data Science projects and work completed as part of the MS Data Science Prog
     - Python, Pandas, NumPy, Matplotlib, Seaborn, Sklearn, SelectKBest, Chi2, Cross_Val_Score
 
 ### SQLMergeDatasets_Visualizations
+[Open Notebook](SQLMergeDatasets_Visualizations.ipynb)
   - Using SQL language to merge three datasets and creating appropriate visualizations
   - Methods
     - Creating three SQL tables and adding records
@@ -68,6 +73,7 @@ Key Data Science projects and work completed as part of the MS Data Science Prog
     - Python, Pandas, SQLite, Matplotlib
 
 ### VehicleTheftsAnalysisProject
+[Open File](VehicleTheftsAnalysisProject.R)
   - Used R language to clean and format data and produce visualizations related to Kia and Hyundai vehicle thefts in the Midwest United States region
   - Methods
     - Read data from flat file and remove blank data
@@ -78,6 +84,7 @@ Key Data Science projects and work completed as part of the MS Data Science Prog
   - R, GGplot2, Maps, Dplyr, Readr, Scales, Maptools, SP, Tidyverse, Lubridate, Tidyr
 
 ### Weather_Python_Project
+[Open File](Weather_Python_Project.py)
   - Created an interactive Python program where a user can choose to enter either a zip code or a city and state and the program will output various current weather details.
   - Methods
     - Main program allowing user to choose to look up weather by zip code or city and state and receive temperature results in fahrenheit or celcius
@@ -89,6 +96,7 @@ Key Data Science projects and work completed as part of the MS Data Science Prog
 
 
 ### MeatConsumptionRegressionProject
+[Open Notebook](MeatConsumptionRegressionProject.ipynb)
   - Cleaned and formatted worldwide meat consumption and informational data and performed predictive analysis with Linear Regression and Random Forest modeling.
   - Methods
     - Reading data from flat file
@@ -104,6 +112,7 @@ Key Data Science projects and work completed as part of the MS Data Science Prog
   
 
 ### WildfirePredictionClassificationProject
+[Open Notebook](WildfirePredictionClassificationProject.ipynb)
   - Cleaned and formatted wildfire data and used to create optimal model for prediction of future wildfires
   - Methods
     - Reading data from flat file
