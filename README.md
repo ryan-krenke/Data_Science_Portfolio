@@ -118,6 +118,7 @@ Key Data Science projects and work completed as part of the MS Data Science Prog
 
 
 ### BeerRatingsPredictionProject
+  - BeerRatingsPredictionProject.ipynb 
   - Cleaned and formatted beer review rating data and used to create optimal model for prediction of future beer ratings
   - Methods
     - Reading data from flat file
