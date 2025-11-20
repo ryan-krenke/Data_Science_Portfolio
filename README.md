@@ -117,5 +117,16 @@ Key Data Science projects and work completed as part of the MS Data Science Prog
     - Python, NumPy, Matplotlib, Seaborn, Sklearn, LogisticRegression, RandomForest, Pipeline, SelectKBest, Chi2, SMOTE, Preprocesing
 
 
-### TBD
+### BeerRatingsPredictionProject
+  - Cleaned and formatted beer review rating data and used to create optimal model for prediction of future beer ratings
+  - Methods
+    - Reading data from flat file
+    - Exploratory data analysis
+    - Training and executing Linear Regression and Random Forest models and evaluating with key metrics
+    - Evaluating correlation to attempt model improvements
+    - Training and executing Lasso Regression model and evaluating with key metrics
+    - Utilizing Feature_Importances with Random Forest Model to understand important model features
+    - Creating visualizations to support analysis
+  - Libraries/Programs used
+    - Python, NumPy, Seaborn, Sklearn, LinearRegression, RandomForest, Lasso
 
